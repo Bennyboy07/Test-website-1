@@ -1,0 +1,14 @@
+body {
+    background-color: hwb(0 47% 53%);
+  }
+  
+  h1 {
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-shadow: rgb(0, 34, 255) 0px 0 25px;
+  }
+
+
+
